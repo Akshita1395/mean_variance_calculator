@@ -23,3 +23,14 @@ The calculations are performed using **NumPy**.
   'min': [column-wise, row-wise, flattened],
   'sum': [column-wise, row-wise, flattened]
 }
+## 🚀 How to Run This Project (on Gitpod)
+
+1. Click this link:  
+   [Run in Gitpod](https://gitpod.io/#https://github.com/Akshita1395/mean_variance_calculator)
+
+2. Once Gitpod opens, run these commands in the terminal:
+
+```bash
+pip install -r requirements.txt
+python3 main.py
+
